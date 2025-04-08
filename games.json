@@ -1,0 +1,8 @@
+{
+  "name": "2048",
+  "url": "https://adsyandex.github.io/2048/",
+  "description": "Классическая головоломка с числами. Соединяйте одинаковые плитки, чтобы получить число 2048!",
+  "category": "puzzle",
+  "license": "MIT",
+  "technology": "HTML5 + JavaScript"
+}
